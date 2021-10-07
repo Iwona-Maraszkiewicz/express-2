@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "express": "4.17.1"
+  },
+  "name": "express-2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Iwona-Maraszkiewicz/express-2.git",
+  "author": "<ikonopinska@gmail.com>",
+  "license": "MIT"
+}
